@@ -1,7 +1,7 @@
 # Background:
 Dengue fever is a mosquito-borne viral disease that is prevalent in many tropical countries located near the equator like Singapore. Singapore has been experiencing periodic spikes of dengue cases across several decades and the number of reported cases was observed to be increasing in recent years.
 
-This project utilized PowerBI visualisation tool and other analytics software to create dashboards for both agency and public use, and can be used to track live dengue cases to enhance monitoring and analysis of dengue trends in Singapore.
+This project utilized PowerBI visualisation tool and other analytics software to create dashboards for both agency and public use. It can be used to track live dengue cases to enhance monitoring and analysis of dengue trends in Singapore.
 
 # References:
 1. https://outbreak.sgcharts.com/data
